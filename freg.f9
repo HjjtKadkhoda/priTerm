@@ -22,7 +22,7 @@
        end if
        end subroutine sub1
 
-       end module module1
+       end module module1 module2
 
        program main
        use module1

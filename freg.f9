@@ -1,5 +1,5 @@
   PROGRAM MAIN
-      INTEGER N, X , Y
+      INTEGER N, X , Y , KLKD
       EXTERNAL SUB1
       COMMON /GLOBALS/ N
       X = 0

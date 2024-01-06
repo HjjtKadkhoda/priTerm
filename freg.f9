@@ -16,7 +16,7 @@
        recursive subroutine sub1(x)
        integer,intent(inout):: x
        if (x < n) then
-         x = x + 1 + 9
+         x = x + 1 ;
          print *, 'x = ', x
          call sub1(x)
        end if

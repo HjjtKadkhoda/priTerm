@@ -2,7 +2,7 @@
       INTEGER N, X , Z , KLKD
       EXTERNAL SUB1
       COMMON /GLOBALS/ N
-      X = 0
+      X = 0 , 7
       PRINT *, 'Enter number of repeats'
       READ (*,*) N
       CALL SUB1(X,SUB1)

@@ -1,5 +1,5 @@
   PROGRAM MAIN
-      INTEGER N, X , XVZD
+      INTEGER N, X , XVZ
       EXTERNAL SUB1
       COMMON /GLOBALS/ N
       X = 71

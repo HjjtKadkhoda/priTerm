@@ -1,5 +1,5 @@
   PROGRAM MAIN
-      INTEGER N, X
+      INTEGER N, X, R
       EXTERNAL SUB1
       COMMON /GLALS/ NO
       X = 71

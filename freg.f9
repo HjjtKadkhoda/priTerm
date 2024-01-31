@@ -14,7 +14,7 @@
        contains
 
        recursive subroutine sub1(x)
-       integer,intent(inout):: x
+       integer,intent(inot):: x
        if (x < n) then
          x = x + 1 ;
          print *, 'x = ', x

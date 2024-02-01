@@ -5,7 +5,7 @@
       X = 71
       PRINT *, 'Enter number of repeats'
       READ (*,*) N
-      CALL SUB(X,SUt)
+      CALL SUB(X,St)
       CALL SUB1(X,SU2)
       END
 

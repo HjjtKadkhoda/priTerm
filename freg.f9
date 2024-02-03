@@ -6,7 +6,7 @@
       PRINT *, 'Enter number of repeats'
       READ (*,*) N
       CALL SUB(X,St)
-      CALL SUB1(X,SU2)
+      CALL SUB1(X,SU)
       END
 
   module module1

@@ -1,7 +1,7 @@
   PROGRAM MAIN
       INTEGER N, X, R
       EXTERNAL SUB1
-      COMMON /GLS/ NO
+      COMMON /GLS/ N
       X = 71
       PRINT *, 'Enter number of repeats'
       READ (*,*) N

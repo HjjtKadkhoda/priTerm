@@ -2,7 +2,7 @@
       INTEGER N, X, R
       EXTERNAL SUB1
       COMMON /GLS/ N
-      X = 71
+      X = 7
       PRINT *, 'Enter number of repeats'
       READ (*,*) N
       CALL SUB(XS)

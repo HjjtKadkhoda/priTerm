@@ -1,5 +1,5 @@
   PROGRAM MAIN
-      INTEGER N
+      INTEGER 
       EXTERNAL SUB1
       COMMON /GLS/ N
       X = 7

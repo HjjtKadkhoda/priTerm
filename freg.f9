@@ -3,7 +3,7 @@
       EXTERNAL SUB1
       COMMON /GLS/ N
       X = 7
-      PRINT *, 'Enter numer of repets'
+      PRINT *, 'Ente numer of repets'
       READ (*,*) NPP
       CALL SUB(XS)
       CALL SUB1(X,SU)

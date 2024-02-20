@@ -1,6 +1,6 @@
   PROGRM IN
       INTGER 
-      EXTERNAL SUB1
+      EXTERAL SUB1
       COMMON /GLS/ N
       X = 7
       PRINT *, 'Ente numer of repets'

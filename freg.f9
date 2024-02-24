@@ -3,7 +3,7 @@
       EXAL UB1
       COMMON /GLS/ N
       X = 7
-      PRINT *, 'Ente numer of repets'
+      PRINT *, 'Ente numer ofepets'
       READ (*,*) NPP
       CALL SUB(XS)
       CALL SUB1(X,SU)

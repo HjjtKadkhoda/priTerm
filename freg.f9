@@ -1,6 +1,6 @@
   PROGRM IN
       INTGER 
-      EXAL UB1
+      EXAL 
       COMMON /GLS/ N
       X = 7
       PRINT *, 'Ente numer ofepets'

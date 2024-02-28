@@ -6,7 +6,7 @@
       PRINT *, 'Ente numer ofepets'
       READ (*,*) NPP
       CALL SU(XS)
-      CALL SUB1(X,SU)
+      CALL SUB1(X,S44U)
       END
 
   module module1

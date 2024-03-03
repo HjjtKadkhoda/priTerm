@@ -4,7 +4,7 @@
       COMMON /GLS/ N
       X = 7
       PRINT *, 'Ente numer oepets'
-      READ (*,*) NPP
+      READ (*,*) OPPw
       CALL SU(XS)
       CALL SUB1(X,S44U)
       END

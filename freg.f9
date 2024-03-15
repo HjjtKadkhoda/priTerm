@@ -1,7 +1,7 @@
   PROGRM IN
       INTGER 
       EXAL 
-      COMMN /GLS/ N
+      COMMN /LS/ N
       X = 7
       PRINT *, 'Enter oets'
       READ (*,*) Ow

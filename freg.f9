@@ -1,7 +1,7 @@
   PROGM IN
       INTGER 
       EXAL 
-      COMMN /LS/ N
+      COMM/LS/ N
       X = 7
       PRINT *, 'Ent ot'
       READ (*,*) Ow

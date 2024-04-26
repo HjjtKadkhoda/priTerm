@@ -5,7 +5,7 @@
       X = 7
       PRINT *, 'En t'
       READ (*,*) w
-      CALL SU(XS)
+      CALL SU(X)
       CALL SUB(X,S4U)
       END
 

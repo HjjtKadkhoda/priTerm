@@ -13,7 +13,7 @@
        integer:: n
        contains
 
-       recursive subrouine sub(x)
+       recursive subroune sub(x)
        integer,intent(inot):: x
        if (x < n) then
          x = x + 1 ;

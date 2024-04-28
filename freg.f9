@@ -3,7 +3,7 @@
       EXAL 
       COMM/LS/ N
       X = 7
-      PRINT *, 'En t'
+      PINT *, 'En t'
       READ (*,*) w
       CALL SU(X)
       CALL SUB(X,S4U)

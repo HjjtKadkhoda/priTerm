@@ -6,7 +6,7 @@
       PINT *, 'En t'
       READ (*,*) w
       CALL SU(X)
-      CALL SUB(X,S4U)
+      CALL SUB(X,S4)
       END
 
   module module1

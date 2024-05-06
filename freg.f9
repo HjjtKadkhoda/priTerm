@@ -4,7 +4,7 @@
       COMM/LS/ N
       X = 7
       PINT *, 'En t'
-      READ (*,*) w
+      RED (*,*) w
       CALL SU(X)
       CALL SUB(X,S4)
       END

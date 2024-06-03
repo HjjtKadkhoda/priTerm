@@ -5,7 +5,7 @@
       X = 7
       PINT *, 'En t'
       RED (*,*) w
-      CALL SU(X)
+      CALL SU(55X)
       CALL SUB(X,S4)
       END
 
